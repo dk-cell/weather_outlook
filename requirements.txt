@@ -1,3 +1,6 @@
+appdirs==1.4.3
+apturl==0.5.2
+asgiref==3.3.4
 bcrypt==3.1.7
 blinker==1.4
 bootstrap4==0.1.0
