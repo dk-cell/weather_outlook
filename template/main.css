@@ -1,0 +1,28 @@
+  #xx{
+      height : 70px;
+      background-color: rgb(32,32,32);
+      color : #fff;
+      text-align: center;
+  }
+  .abc{
+      margin-top: 20px;
+  }
+  #bc1 {
+    border-radius: 4px;  
+    margin-left: 40px;
+  }
+  #t1{
+    margin-left: 15px;
+    font-family :Arial, Helvetica, sans-serif;
+  }
+
+  /* Darker background on mouse-over */
+  .btn{
+    margin-top: 3px;
+  }
+  .btn:hover {
+    background-color: rgb(243, 241, 241);
+  }
+.x{
+  color : white;
+}
